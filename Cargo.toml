@@ -1,0 +1,10 @@
+[package]
+name = "easy-ws"
+version = "0.1.0"
+authors = ["shmutalov <shmutalov@gmail.com>"]
+
+[dependencies.ws]
+version = "0.7.3"
+features = ["ssl"]
+
+
